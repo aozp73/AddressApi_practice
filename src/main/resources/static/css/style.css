@@ -1,0 +1,22 @@
+.my-text-ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.my-boardDetail-topgrid {
+    display: flex;
+    justify-content: left;
+    gap: 20px
+}
+
+.my-boardMain-lovelayout {
+    display: flex;
+    justify-content: right;
+    gap: 5px;
+}
+
+.my-mainPagePaging-layout {
+    display: flex;
+    justify-content: center;
+}
